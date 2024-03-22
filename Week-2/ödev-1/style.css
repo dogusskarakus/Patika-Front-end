@@ -1,0 +1,44 @@
+.title{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+
+nav>ul>li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 20px;
+    
+}
+
+
+h2{
+    color: purple;
+    text-align: center;
+    font-size: 30px;
+}
+
+.info{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+ul>li{
+    text-align: center;
+    list-style-position: inside;
+    color: orange;
+}
+
+h4{
+    color: #d39612;
+}
+
+ol{
+    text-align: center;
+    list-style-position: inside;
+}
+
+nav>ul{
+    text-align:center;
+}
