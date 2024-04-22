@@ -1,0 +1,18 @@
+.navbar-brand,.display-4{
+
+    color: red !important ;
+
+}
+
+.nav-link{
+    color: white  !important;
+}
+
+
+.card-body{
+    text-align: center;
+}
+
+.card img{
+    min-height: 300px;
+}
